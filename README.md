@@ -1,4 +1,7 @@
 # Benchball Varsity 2022 - Data Analysis Code
+
+Disclaimer: This project was created early in my learning journey and demonstrates foundational analysis concepts. While basic, it showcases my initial exploration into the pandas library.
+
 ## Short Description:
 Data analysis of results from a recent Benchball (sport) tournament.
 
